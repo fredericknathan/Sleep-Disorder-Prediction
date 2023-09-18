@@ -1,2 +1,2 @@
 # Sleep-Disorder-Prediction
-Using various machine learning algorithms to predict sleep disorder based on a person's data
+Using various machine learning algorithms to predict sleep disorder based on the given data.
