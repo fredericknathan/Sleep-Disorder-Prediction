@@ -1,6 +1,6 @@
 # Sleep-Disorder-Prediction
 
-Dataset:
+## The Dataset
 https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset
 
 This dataset covers several factors that can lead a person to experience sleep disorders. These factors includes:
@@ -18,5 +18,20 @@ This dataset covers several factors that can lead a person to experience sleep d
 12. Daily Steps: Number of steps the person takes in a day
 13. Sleep Disorder: The sleep disorder category of the person (None, Insomnia, Sleep Apnea)
 
-## Data Visualization
-This dataset
+## Results
+After doing a few data pre-processing, the data is ready to be fit with the machine learning models.
+The models that I choose to fit the data are:
+1. Random Forest Classiffier
+2. Decision Tree
+3. Gradient Boosting
+4. Support Vector Classifier (SVC)
+5. K-Nearest Neighbors (KNN)
+6. Naive Bayes
+7. Extreme Gradient Boosting (XGBoost)
+8. LightGBM
+9. Logistic Regression
+10. Ada Boost
+
+The result comes as such:
+![image](https://github.com/fredericknathan/Sleep-Disorder-Prediction/assets/91310022/2e995e7f-a94b-4eff-8a85-aa6792e40ab9)
+With Random Forest, Gradient Boosting, XGBoost, and LightGBM all having the accuracy of 93%, it is safe to say that these machine learning algorithms has out performed the others when it comes to this dataset.
