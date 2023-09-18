@@ -17,3 +17,6 @@ This dataset covers several factors that can lead a person to experience sleep d
 11. Heart Rate: Resting heart rate of a person in a minute (Beats per minute/bpm)
 12. Daily Steps: Number of steps the person takes in a day
 13. Sleep Disorder: The sleep disorder category of the person (None, Insomnia, Sleep Apnea)
+
+## Data Visualization
+This dataset
