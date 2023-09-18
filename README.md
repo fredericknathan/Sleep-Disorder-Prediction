@@ -32,6 +32,8 @@ The models that I choose to fit the data are:
 9. Logistic Regression
 10. Ada Boost
 
-The result comes as such:
+The result:
+ 
 ![image](https://github.com/fredericknathan/Sleep-Disorder-Prediction/assets/91310022/2e995e7f-a94b-4eff-8a85-aa6792e40ab9)
+ 
 With Random Forest, Gradient Boosting, XGBoost, and LightGBM all having the accuracy of 93%, it is safe to say that these machine learning algorithms has out performed the others when it comes to this dataset.
